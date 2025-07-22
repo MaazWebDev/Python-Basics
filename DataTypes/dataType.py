@@ -3,8 +3,8 @@
 #There Two Types Of Data Types In Python
 # https://app.eraser.io/workspace/oKpScDjNGei3NCGzrIsE?origin=share
 
-# 1.Immutable
-# 2.Mutable
+# 1.Immutable ( Those which are not change able)
+# 2.Mutable ( Those which are  change able)
 
 # 1.Mutable 
 # List
