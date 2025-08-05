@@ -1,4 +1,9 @@
+# Varibale :
 # What Are Variables And How Variables Are Decalred And Initialized In Python
+#  Variables are containers for storing data values.
+
+# Python has no command for declaring a variable.
+# A variable is created the moment you first assign a value to it.
 
 name = "Maaz Khan";
 print(name);
