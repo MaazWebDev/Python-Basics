@@ -1,0 +1,10 @@
+# Question 3. Multiplication Table Printer
+# Problem: Print the multiplication table for a given number up to 10, but skip the fifth iteration.
+
+number = int(input('Enter Your Multiplication Number : '))
+
+for i in range(1,11):
+    if i == 5:
+        # Which is detaction the iteration take out
+        continue
+    print(number,'X',i,'=',number*i)
